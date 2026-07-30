@@ -6,9 +6,10 @@
 
 ### 👨‍💻 About Me
 
-* 🚀 **Focus:** Building responsive web applications & modern UI experiences
-* 💻 **Tech Interests:** Full-Stack Web Dev & Problem Solving 
-* ⚡ **Goal:** Earning through open-source, grants, and client projects
+* 💻 **Current Focus:** Building responsive web applications & modern web experiences
+* 🧠 **Problem Solving:** Passionate about Data Structures & Logic Building 
+* 🤖 **Exploring:** Keen interest in Machine Learning, AI Applications & Cybersecurity
+* 🚀 **Mindset:** Constantly learning new technologies, building projects, and writing cleaner code
 
 ---
 
