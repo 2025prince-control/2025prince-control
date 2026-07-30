@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 
 * 🚀 **Focus:** Building responsive web applications & modern UI experiences
-* 💻 **Tech Interests:** Full-Stack Web Dev & Problem Solving with C++
+* 💻 **Tech Interests:** Full-Stack Web Dev & Problem Solving 
 * ⚡ **Goal:** Earning through open-source, grants, and client projects
 
 ---
