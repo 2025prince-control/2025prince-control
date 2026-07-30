@@ -1,60 +1,49 @@
-<div align="center">
-
 # ⚡ Hey, I'm Prince Yadav!
 
-### 🎓 CSE Student @ ITM Skills University | Full-Stack & Systems Developer 🚀
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-yadav-b04644370)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__cheeku.__04)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2025.princey@isu.ac.in)
+### 🎓 B.Tech CSE Student @ ITM Skills University | Full-Stack & Web Developer 🚀
 
 ---
 
-<img src="https://media.giphy.com/media/qgQUGGAC3P4FmRyQnr/giphy.gif" width="400" />
+### 👨‍💻 About Me
 
-</div>
-
-### 🎯 About Me
-- 🔭 **Focus:** Building scalable web applications & learning core modern tech.
-- 💻 **Tech Interests:** Web Development, Modern UI Design, Problem Solving with C++.
-- ⚡ **Goal:** Earning through open-source, grants, and client projects.
+* 🚀 **Focus:** Building responsive web applications & modern UI experiences
+* 💻 **Tech Interests:** Full-Stack Web Dev & Problem Solving with C++
+* ⚡ **Goal:** Earning through open-source, grants, and client projects
 
 ---
 
 ### 🚀 Tech Stack
 
-<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/HTML5.png" alt="HTML5" title="HTML5" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/CSS3.png" alt="CSS3" title="CSS3" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/JavaScript.png" alt="JavaScript" title="JavaScript" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/React.png" alt="React" title="React" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/Node.js.png" alt="Node.js" title="Node.js" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/Cplusplus.png" alt="C++" title="C++" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/Python.png" alt="Python" title="Python" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/Git.png" alt="Git" title="Git" /></code>
-
-<br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🎨 UI / UX Design
-<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/Figma.png" alt="Figma" title="Figma" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/Canva.png" alt="Canva" title="Canva" /></code>
 
-<br/>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### 🛠️ Tools & Deployment
-<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/VS_Code.png" alt="VS Code" title="VS Code" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/GitHub.png" alt="GitHub" title="GitHub" /></code>
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/Thunder_Client-7B2CBF?style=for-the-badge&logo=thunderbird&logoColor=white)
-<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/Netlify.png" alt="Netlify" title="Netlify" /></code>
-<code><img height="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/Vercel.png" alt="Vercel" title="Vercel" /></code>
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-<div align="center">
+### 🌐 Connect with Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2025prince-control&show_icons=true&theme=tokyonight&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-yadav-b04644370)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__cheeku.__04)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2025.princey@isu.ac.in)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=2025prince-control&color=00f5d4&style=for-the-badge&label=VIEWS)
-
-</div>
